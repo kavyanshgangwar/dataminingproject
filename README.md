@@ -5,6 +5,9 @@
 2. pandas
 3. matplotlib
 4. wordcloud
+5. sikit learn
+6. nltk
+7. spacy
 
 ## Project file details
 ### 1. my-data-mining-project-fake-job-recruitment.ipynb
