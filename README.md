@@ -1,16 +1,16 @@
-#Fake Job Recruitment Posting Detection
+# Fake Job Recruitment Posting Detection
 
-##Libraries used
+## Libraries used
 1. numpy
 2. pandas
 3. matplotlib
 4. wordcloud
 
-##Project file details
-###1. my-data-mining-project-fake-job-recruitment.ipynb
+## Project file details
+### 1. my-data-mining-project-fake-job-recruitment.ipynb
 A ipython notebook made on kaggle and configured with properties to work on kaggle's directory structure. It contains the code of data cleaning for the project.
 
-###2. fake_job_postings.csv
+### 2. fake_job_postings.csv
 The dataset used for this project lies in this file. The dataset has been prepared by The University of the Aegan. The dataset contains following columns:
 1. job_id: Unique Job ID
 2. title: The title of the job ad entry
@@ -31,7 +31,7 @@ The dataset used for this project lies in this file. The dataset has been prepar
 17. function: Consulting, Engineering, Research, Sales etc
 18. fraudulent: target - Classification attribute
 
-###3. clean_data.csv
+### 3. clean_data.csv
 This file contains preprocessed data for further use in the models.
 
 
