@@ -5,6 +5,9 @@
 2. pandas
 3. matplotlib
 4. wordcloud
+5. sikit learn
+6. nltk
+7. spacy
 
 ## Project file details
 ### 1. my-data-mining-project-fake-job-recruitment.ipynb
@@ -34,4 +37,5 @@ The dataset used for this project lies in this file. The dataset has been prepar
 ### 3. clean_data.csv
 This file contains preprocessed data for further use in the models.
 
-
+### 4. final_cleaning_prediction_comparison.inpynb
+A ipython notebook made on kaggle and configured with the properties to work on kaggle's directory. It contains code of final data cleaning and dividing in to test and train set and different models for prediction. it also compares the final predicted output's ROC-AUC score graphically.
