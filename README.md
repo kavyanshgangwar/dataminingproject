@@ -10,7 +10,7 @@
 7. spacy
 
 ## Project file details
-### 1. my-data-mining-project-fake-job-recruitment.ipynb
+### 1. data-mining-project.ipynb
 A ipython notebook made on kaggle and configured with properties to work on kaggle's directory structure. It contains the code of data cleaning for the project.
 
 ### 2. fake_job_postings.csv
